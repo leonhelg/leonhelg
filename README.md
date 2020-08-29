@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] Linkedin
+[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] Linkedin 💬
 <br />
 
-#### Technologies
+#### Technologies 🌱
 [<img align="center" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>][vscode]
 [<img align="center" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
 [<img align="center" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][github] 
