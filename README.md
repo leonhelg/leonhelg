@@ -14,5 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Interact
+[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
-test1
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/discord_logo_icon_145337.png" alt="Discord" width="26px"> leonhelg#1441
+
+
+#### Technologies
+[<img align="center" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>][vscode]
+[<img align="center" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
+[<img align="center" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][github] 
+[<img align="center" alt="SQLite" width="26px" src="https://i.imgur.com/WmavSbF.png"/>][sqlite]
+[<img align="center" alt="MongoDB" width="30px" src="https://i.imgur.com/0q063rd.png"/>][mongodb]
+[<img align="center" alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
+
+
+[python]: https://www.python.org
+[vscode]: https://code.visualstudio.com
+[github]: https://github.com/leonhelg
+[sqlite]: https://www.sqlite.org/index.html
+[mongodb]: https://www.mongodb.com
+[neo4j]: https://neo4j.com
+[linkedin]: www.linkedin.com/in/leonerhe/
+
