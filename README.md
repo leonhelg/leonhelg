@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 <br />
 
 #### Technologies
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"/>][python]
 [<img align="center" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][github] 
 [<img align="center" alt="SQLite" width="26px" src="https://i.imgur.com/WmavSbF.png"/>][sqlite]
-[<img align="center" alt="MongoDB" width="30px" src="https://i.imgur.com/0q063rd.png"/>][mongodb]
+[<img align="center" alt="MongoDB" width="30px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/>][mongodb]
 [<img align="center" alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
 
 Visual Studio Code | Python 3.8 | GitHub | SQL Language | NoSQL document-type database - Mongo DB | NoSQL graph-type database - Neo 4j | NoSQL key-value-type database - Cassandra
