@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img align="left" alt="Leon Helgeland | LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin] ## Linkedin
 <br />
 
 #### Technologies
