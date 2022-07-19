@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="MongoDB" width="30px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/>][mongodb]
 [<img align="center" alt="Neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"/>][neo4j]
 
-Visual Studio Code | Python 3.8 | GitHub | SQL Language | NoSQL document-type database - Mongo DB | NoSQL graph-type database - Neo 4j | NoSQL key-value-type database - Cassandra | Machine learning - OpenCV / Tensorflow (Keras) | Next.js | NextAuth
+Visual Studio Code | Python 3.8 | GitHub | SQL Language | NoSQL document-type database - Mongo DB | NoSQL graph-type database - Neo 4j | NoSQL key-value-type database - Cassandra | Machine learning - OpenCV / Tensorflow (Keras) | Next.js | NextAuth | Supabase - relational db
 
 [python]: https://www.python.org
 [vscode]: https://code.visualstudio.com
